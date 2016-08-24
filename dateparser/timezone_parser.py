@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import regex as re
+import re
 from datetime import datetime, timedelta, tzinfo
 
 from .timezones import timezone_info_list

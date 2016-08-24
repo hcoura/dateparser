@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 from itertools import chain
 from operator import methodcaller
 
-import regex as re
+import re
 from six.moves import zip_longest
 
 from dateparser.utils import normalize_unicode

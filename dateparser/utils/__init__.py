@@ -3,7 +3,7 @@ import logging
 import types
 import unicodedata
 
-import regex as re
+import re
 from pytz import UTC, timezone
 
 from dateparser.timezone_parser import _tz_offsets, StaticTzInfo

@@ -1,6 +1,6 @@
 # coding: utf-8
 import calendar
-import regex as re
+import re
 
 from io import StringIO
 from collections import OrderedDict

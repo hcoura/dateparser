@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from warnings import warn
 
 import six
-import regex as re
+import re
 from dateutil.relativedelta import relativedelta
 
 from dateparser.date_parser import date_parser

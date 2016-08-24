@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import regex as re
+import re
 from itertools import chain
 
 from dateutil import parser

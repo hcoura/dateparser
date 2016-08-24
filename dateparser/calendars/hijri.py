@@ -1,7 +1,7 @@
 from datetime import datetime
 
 from umalqurra.hijri_date import HijriDate
-import regex as re
+import re
 
 from dateparser.calendars import CalendarBase
 from dateparser.date import DateDataParser

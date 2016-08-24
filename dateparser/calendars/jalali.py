@@ -1,7 +1,7 @@
 # coding: utf-8
 from __future__ import unicode_literals
 
-import regex as re
+import re
 from collections import OrderedDict
 from datetime import datetime, time
 from functools import reduce
